@@ -1,0 +1,111 @@
+
+th {
+  padding: 30px;
+  font-family: fantasy; /* th padding makes space in a table. Used specifically for the table of links at top of each page */
+}
+
+h1 {
+  font-family: "georgia";
+  color: #646c77;
+  background-color: #eac7e7;
+}
+
+body {
+  background-image: url(https://s3.amazonaws.com/cdn.sl.disneysprings.com/wp-content/uploads/2015/09/25131834/erin-mckennas-bakery-nyc-sm.jpg);
+  background-size: 1700px;
+  font-family: "verdana"
+  color: #656663;
+  text-align: center;
+}
+
+table { /* margin left and right auto center each table */
+    margin-left:auto;
+    margin-right:auto;
+    border-style: solid;
+    background-color: #eac7e7;
+
+  }
+
+  p {
+    background-color: #eac7e7;
+    font-style: oblique;
+    font-size: 20px;
+    color: #646c77;
+  }
+
+
+
+.Joseph_img {
+  transform: rotate(90deg);
+
+}
+
+
+  iframe {
+    padding: 50px;
+  }
+
+  figcaption {
+    background-color: #eac7e7;
+    font-style: oblique;
+    font-size: 20px;
+    color: #646c77;
+    border-style: solid;
+  }
+
+/* the following images all have margin left and right data sets to position the image to the left or right of the page */
+
+  .coffee_img {
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .tea_img {
+    float: right;
+    margin-left: 40px;
+
+  }
+
+  .cannoli_jpg {
+    float: left;
+    margin-left: 40px;
+
+  }
+
+  .eclair_img {
+    float:right;
+    margin-right: 40px;
+  }
+
+.strawberryshortcake_img {
+  float: left;
+  margin-left: 40px;
+}
+
+.carrotcake_img {
+  float:right;
+  margin-right: 25px;
+}
+
+.struffoli_img {
+  float: left;
+  margin-left: 25px;
+  margin-right:15px;
+}
+
+.Anisette_img {
+  float:right;
+  margin-right: 40px;
+  margin-left: 15px;
+}
+
+img {
+  margin-left: 10px;
+}
+
+h3 {
+  font-family: "georgia";
+  color: #646c77;
+  background-color: #eac7e7;
+}
